@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"file","file":"Массивы.md","id":"c673d4aab9227a8f","x":-1720,"y":-1880,"width":220,"height":50},
+		{"id":"23269ec08a21c3a3","x":-1700,"y":-1740,"width":180,"height":67,"type":"file","file":"Срезы.md"}
+	],
+	"edges":[
+		{"id":"bc095af3a381ef51","fromNode":"c673d4aab9227a8f","fromSide":"bottom","toNode":"23269ec08a21c3a3","toSide":"top"}
+	]
+}
